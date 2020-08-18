@@ -1,6 +1,6 @@
 # QiwiDb
  Simple NodeJS database that focuses on easy use and hobby projects
-# Usage
+## Usage
 ### Global Object Name : qiwiDb
 
 ### workspace : string
