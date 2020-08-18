@@ -1,25 +1,25 @@
 # QiwiDb
  Simple NodeJS database that focuses on easy use and hobby projects
 # Usage
-##Global Object Name : qiwiDb
+### Global Object Name : qiwiDb
 
-##workspace : string
+### workspace : string
 Indicates the current workspace (document) can be modified by the select function.
 Default value: null
 
-##setup() : function
+### setup() : function
 Only needed for first use prepares the folder structure.
 returns (void)
 
-##select(Document Name : string) : function
+### select(Document Name : string) : function
 Selects a document to work on. Must be used before any function after creating a document.
 returns (void)
 
-##createDoc(Document Name : string) : function
+### createDoc(Document Name : string) : function
 Creates an empty document.
 returns (void)
 
-##read() : function *Debug*
+### read() : function *Debug*
 Returns the whole database in JSON format.
 returns (JSON)
 
