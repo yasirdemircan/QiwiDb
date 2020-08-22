@@ -1,3 +1,4 @@
+![alt text](https://github.com/yasirdemircan/QiwiDb/raw/master/logo/qiwi.png)
 # QiwiDb
  Simple NodeJS database that focuses on easy use and hobby projects
 ## Usage
